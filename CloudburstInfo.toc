@@ -1,0 +1,14 @@
+## Interface: 70100
+## Author: v801
+## Version: v0.4
+## Title: CloudburstInfo
+## Notes: Displays Cloudburst Totem healing info!
+## SavedVariablesPerCharacter: Settings
+## X-Website: https://github.com/v801/CloudburstInfo
+## X-Curse-Packaged-Version: v0.4
+## X-Curse-Project-Name: CloudburstInfo
+## X-Curse-Project-ID: cloudburstinfo
+## X-Curse-Repository-ID: wow/cloudburstinfo/mainline
+
+CloudburstInfo.lua
+
